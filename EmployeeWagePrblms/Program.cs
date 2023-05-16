@@ -7,7 +7,7 @@ namespace EmployeeWageComputationProblem
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to employee wage computation problem");
-            EmployeeWageComputation.EmployeeCheck();
+            EmployeeWageComputation.EmployeeWage();
         }
     }
 }
